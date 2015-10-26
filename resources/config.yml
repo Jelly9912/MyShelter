@@ -1,0 +1,19 @@
+Spawn: "world"
+
+# Items for special shelter:
+# Amount of diamonds
+Diamonds: "2"
+# Amount of arrows
+Arrows: "32"
+# Amount of torches
+Torches: "32"
+# Amount of steaks
+Steaks: "10"
+
+# Items for tower shelter:
+# Amount of torches
+TowerTorches: "15"
+#Amount of ladders
+Ladders: "30"
+#Amount of arrows
+TowerArrows: "32"
