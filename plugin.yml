@@ -1,0 +1,27 @@
+name: MyShelter
+version: 1.0.1
+api: 1.12.0
+main: MyShelter\Main
+author: Jelly9912
+description: Cool shelters on command
+commands:
+  ms:
+    usage: /ms help
+    default: true
+    description: Main command for MyShelter plugin
+permissions:
+  ms:
+    default: true
+  ms.command:
+    default: false
+    children:
+      ms.command.free:
+        default: true
+      ms.command.special:
+        default: op
+      ms.command.underground:
+        default: op
+      ms.command.tower:
+        default: op
+      ms.command.info:
+        default: true
