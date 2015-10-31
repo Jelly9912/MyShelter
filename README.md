@@ -16,4 +16,4 @@ Commands:
 
 Entrance to the shelter is always from the east
 
-[i]More commands and builds soon.[/i]
+More commands and builds soon.
